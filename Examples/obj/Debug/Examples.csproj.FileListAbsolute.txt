@@ -1,0 +1,17 @@
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\ResolveAssemblyReference.cache
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.MeshCreator.MeshCreatorControl.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.Otros.EjemploDefaultHelpForm.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.Properties.Resources.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorControl.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorHelpWindow.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorMapView.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorTexturesEdit.resources
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\GenerateResource.read.1.tlog
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\GenerateResource.write.1.tlog
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\obj\Debug\Examples.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\Examples.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\Examples.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\Ionic.Zip.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\TgcViewer.exe
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\Examples\TgcViewer.pdb

@@ -1,0 +1,16 @@
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\obj\Debug\ResolveAssemblyReference.cache
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\obj\Debug\AlumnoEjemplos.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\obj\Debug\AlumnoEjemplos.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\AlumnoEjemplos.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\AlumnoEjemplos.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\TgcViewer.exe
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\Ionic.Zip.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewer\AlumnoEjemplos\TgcViewer.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\obj\Debug\ResolveAssemblyReference.cache
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\obj\Debug\AlumnoEjemplos.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\obj\Debug\AlumnoEjemplos.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\AlumnoEjemplos.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\AlumnoEjemplos.pdb
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\TgcViewer.exe
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\Ionic.Zip.dll
+C:\Cesar\Programas-Utilidades\TGCViewer\TgcViewerTPDefinitivo\AlumnoEjemplos\TgcViewer.pdb
